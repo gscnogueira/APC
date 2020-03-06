@@ -1,0 +1,37 @@
+Informações:
+
+Nome: drak
+Dieta: onivoro
+Tempo Médio de Vida:10
+Nível de inteligencia:5
+Estatura Média:1.500000
+Peso Médio:20.000000
+
+Nome: usprout
+Dieta: herbivoro
+Tempo Médio de Vida:18
+Nível de inteligencia:3
+Estatura Média:14.700000
+Peso Médio:970.799988
+
+Nome: truvants
+Dieta: onivoro
+Tempo Médio de Vida:200
+Nível de inteligencia:10
+Estatura Média:3.000000
+Peso Médio:230.300003
+
+Nome: axilis
+Dieta: carnivoro
+Tempo Médio de Vida:5
+Nível de inteligencia:1
+Estatura Média:0.600000
+Peso Médio:3.000000
+
+Nome: clovis
+Dieta: onivoro
+Tempo Médio de Vida:68
+Nível de inteligencia:9
+Estatura Média:0.300000
+Peso Médio:2.500000
+
